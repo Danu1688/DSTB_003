@@ -1,7 +1,7 @@
 proxies:
 - name: WakBeb_LiveDO_1
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: 01b4129d-d19d-45f1-bf6f-3865cf8f1143
   udp: true
